@@ -11,7 +11,7 @@ public class Triangle : Figure
     public double FirstSide { get; private set; }
 
     /// <summary>
-    /// Вторая сторона
+    /// Вторая сторона.
     /// </summary>
     public double SecondSide { get; private set; }
 
